@@ -14,7 +14,6 @@ Joined Github **3** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Some of my projects are publicly available on [Github](https://github.com/Hussain-7).
 - 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com.
