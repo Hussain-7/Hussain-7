@@ -18,7 +18,7 @@ Joined Github **3** years ago.
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Some of my projects are publicly available on [Github](https://github.com/Hussain-7).
 - 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf).
 
 ### My Absolute Favorites:
 
