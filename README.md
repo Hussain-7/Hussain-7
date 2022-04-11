@@ -22,6 +22,7 @@ Joined Github **3** years ago.
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🆕 &nbsp; Lately I've been building web3 apps.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 
 ### Languages and Tools:
