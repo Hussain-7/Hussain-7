@@ -9,8 +9,9 @@ I'm a Computer Science student 🎓 from Nust 🏛. I'm a passionate learner who
 Joined Github **4** years ago.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
+<p align="center">
 <img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</p>
 
 ### Talking about Personal Stuffs:
 
