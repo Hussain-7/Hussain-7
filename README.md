@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a computer scientist 🎓 from Nust 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+A passionate Lead Software Engineer 💡 with a strong foundation as a computer scientist from Nust 🏛. My journey began with a commitment to learning, and today I'm an adept Project Architect, Developer, and Manager all rolled into one ✨.
 Joined Github **5** years ago.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
@@ -13,18 +13,21 @@ Joined Github **5** years ago.
 <img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 </p>
 
-### Talking about Personal Stuffs:
+### About Me:
+I thrive on continuous learning and embracing diverse technologies and domains. My curiosity fuels my drive to explore cutting-edge solutions for real-world challenges. Backed by the core concepts of CS, I've evolved into a dynamic Lead Software Engineer, overseeing projects from architecture to execution.
 
-- 🚀 &nbsp; I’m currently a Lead Software Engineer.
-- 👨🏻‍💻 &nbsp; Some of my projects are publicly available on [Github](https://github.com/Hussain-7).
+### What I'm Up To:
+
+- 🚀 &nbsp; As a Lead Software Engineer, I spearhead projects and architect solutions that push boundaries.
+- 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/Hussain-7).
 - 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf).
 
-### My Absolute Favorites:
+### My Passions and Pursuits:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 🆕 &nbsp; Lately I've been building AI incorporated web app, shopify app and metaverses.
-- 📰 &nbsp; Reading tech blogs whenever possible.
+- 💻 &nbsp; My enthusiasm lies in unraveling new tech stacks and crafting remarkable applications.
+- 🆕 &nbsp; Lately, I've been immersed in developing AI-infused web apps, innovative Shopify extensions, and exploring the realms of metaverses.
+- 📰 &nbsp;  I'm an avid consumer of tech blogs, staying updated with the latest trends.
 
 ### Languages and Tools:
 
@@ -48,6 +51,8 @@ Joined Github **5** years ago.
 #
 
 <div align="center">
+
+#### Join me in embracing the exciting synergy of technology, innovation, and problem-solving. Let's connect and collaborate to create a more remarkable future.
 
 ### Show some ❤️ by starring some of the repositories!
 
