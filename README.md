@@ -47,7 +47,11 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-#
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hussain-7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <div align="center">
 
