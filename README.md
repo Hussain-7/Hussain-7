@@ -4,8 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rizvi_hussain/)
 
 ### Glad to see you here! &nbsp;
-I'm passionate Lead Software Engineer💡. My journey began with a commitment to learning, and today I'm an adept Project Architect, Developer, and Manager all rolled into one ✨.
-Joined Github **5** years ago.
+I'm passionate AI Software Engineer💡. My journey began with a commitment to learning, and today I'm an adept Project Architect, Developer, and Manager all rolled into one ✨.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <p align="center">
