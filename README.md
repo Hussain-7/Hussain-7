@@ -16,7 +16,8 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 
 ### What I'm Up To:
 
-- 🚀 &nbsp; As a Lead Software Engineer, I spearhead projects and architect solutions that push boundaries.
+- 🔬 Currently building [Ephor.ai](https://ephor.ai/home) @[Trilogy](https://trilogy.com/) — an AI platform to accelerate human learning using GenAI.
+- 🚀 &nbsp; As a AI Software Engineer, I spearhead projects at 100x and architect solutions that push boundaries.
 - 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/Hussain-7).
 - 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf).
