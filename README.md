@@ -16,7 +16,7 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 
 ### What I'm Up To:
 
-- 🔬 Currently building [Ephor.ai](https://ephor.ai/home) @[Trilogy](https://trilogy.com/) — an AI platform to accelerate human learning using GenAI.
+- 🔬 &nbsp; Currently building [Ephor.ai](https://ephor.ai/home) @[Trilogy](https://trilogy.com/) — an AI platform to accelerate human learning using GenAI.
 - 🚀 &nbsp; As a AI Software Engineer, I spearhead projects at 100x and architect solutions that push boundaries.
 - 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/Hussain-7).
 - 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com.
@@ -27,6 +27,12 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 - 💻 &nbsp; My enthusiasm lies in unraveling new tech stacks and crafting remarkable applications.
 - 🆕 &nbsp; Lately, I've been immersed in developing AI-infused web apps, innovative Shopify extensions, and exploring the realms of metaverses.
 - 📰 &nbsp;  I'm an avid consumer of tech blogs, staying updated with the latest trends.
+
+### 🛠️ Tech Stack
+- Languages: Python, Typescript, C++, Go, Rust
+- Dev & Infra: AWS, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions
+- AI/GenAI: LangChain, LlamaIndex, FastAPI, OpenAI, Gemini, Anthropic, Bedrock
+- Other: CI/CD, System Design, Cost Optimization, SaaS Architecture
 
 ### Languages and Tools:
 
