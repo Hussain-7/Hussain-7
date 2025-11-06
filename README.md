@@ -25,12 +25,12 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 ### My Passions and Pursuits:
 
 - 💻 &nbsp; My enthusiasm lies in unraveling new tech stacks and crafting remarkable applications.
-- 🆕 &nbsp; Lately, I've been immersed in developing AI-infused web apps, innovative Shopify extensions, and exploring the realms of metaverses.
-- 📰 &nbsp;  I'm an avid consumer of tech blogs, staying updated with the latest trends.
+- 🆕 &nbsp; Lately, I’ve been diving into building AI agents that actually make life easier — helping people get rid of the boring, repetitive stuff so they can focus on what matters. I’m also using them to automate my own daily development workflows and boost my creativity.
+- 📰 &nbsp;  I’m passionate about exploring emerging technologies, constantly reading, learning, and staying ahead of trends across multiple domains through tech blogs and expert communities.
 
 ### 🛠️ Tech Stack
 - Languages: Python, Typescript, C++, Go, Rust
-- Dev & Infra: AWS, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions
+- Dev & Infra: AWS, Cloudflare, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions
 - AI/GenAI: LangChain, LlamaIndex, FastAPI, OpenAI, Gemini, Anthropic, Bedrock
 - Other: CI/CD, System Design, Cost Optimization, SaaS Architecture
 
