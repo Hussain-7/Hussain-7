@@ -1,10 +1,7 @@
-## Hey 👋, I'm [Hussain Rizvi !](https://github.com/Hussain-7/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smhussainrizvi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rizvi_hussain/)
+## Hey 👋, I'm [Hussain Rizvi](https://github.com/Hussain-7/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smhussainrizvi/)
 
 ### Glad to see you here! &nbsp;
-- I'm a passionate AI Software Engineer💡. My journey began with a commitment to learning, and today I'm an adept Project Architect, Developer, and Manager all rolled into one ✨.
+- I'm an AI Product Engineer 💡 with 5+ years of software development experience building AI-native products, agentic harnesses, and full-stack systems end to end. I’m stack-agnostic by mindset and focus on choosing the right tools to ship fast, useful, production-ready experiences ✨..
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <p align="center">
@@ -12,27 +9,34 @@
 </p>
 
 ### About Me:
-I thrive on continuous learning and embracing diverse technologies and domains. My curiosity fuels my drive to explore cutting-edge solutions for real-world challenges. Backed by the core concepts of CS, I've evolved into a dynamic Lead Software Engineer, overseeing projects from architecture to execution.
+Over the last 5+ years, I’ve worked across frontend, backend, infrastructure, and product delivery, turning ambitious ideas into real software. My recent work has focused on AI-native products, agentic harnesses, MCP tooling, workflow automation, and full-stack user experiences that are practical, scalable, and reliable.
 
 ### What I'm Up To:
 
-- 🔬 &nbsp; Currently building [Ephor.ai](https://ephor.ai/home) @[Trilogy](https://trilogy.com/) — an AI platform to accelerate human learning using GenAI.
-- 🚀 &nbsp; As a AI Software Engineer, I spearhead projects at 100x and architect solutions that push boundaries.
-- 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/Hussain-7).
-- 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf).
+- Building AI-first products, agentic harnesses, and full-stack systems end to end.
+- Exploring MCP ecosystems, agent UX, tool-connected workflows, and AI product infrastructure.
+- Shipping products that combine strong user experience, useful automation, and production-grade engineering.
+- 👨🏻‍💻 &nbsp; You can explore some of my work on [GitHub](https://github.com/Hussain-7).
+- 📫 &nbsp; How to reach me: hussain2000.rizvi@gmail.com
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf)
 
 ### My Passions and Pursuits:
 
-- 💻 &nbsp; My enthusiasm lies in unraveling new tech stacks and crafting remarkable applications.
-- 🆕 &nbsp; Lately, I’ve been diving into building AI agents that actually make life easier — helping people get rid of the boring, repetitive stuff so they can focus on what matters. I’m also using them to automate my own daily development workflows and boost my creativity.
-- 📰 &nbsp;  I’m passionate about exploring emerging technologies, constantly reading, learning, and staying ahead of trends across multiple domains through tech blogs and expert communities.
+- 💻 &nbsp; I enjoy building products where AI is not just a feature, but a meaningful part of the workflow.
+- 🆕 &nbsp; Lately, I’ve been focused on agentic harnesses, MCP-based tooling, AI-assisted developer workflows, and products that eliminate repetitive work for real users.
+- 📰 &nbsp; I’m especially interested in the intersection of product thinking, fast execution, and solid engineering across whatever stack best fits the problem.
 
 ### 🛠️ Tech Stack
-- Languages: Python, Typescript, C++, Go, Rust
-- Dev & Infra: AWS, Cloudflare, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions
-- AI/GenAI: LangChain, LlamaIndex, FastAPI, OpenAI, Gemini, Anthropic, Bedrock
-- Other: CI/CD, System Design, Cost Optimization, SaaS Architecture
+Although I’m stack-agnostic, these are usually my go-to choices depending on the product, team, and constraints.
+
+- **Languages**: Python, Typescript, C++, Go, Rust
+- **Frontend**: React, Next.js, React Native, Tailwind CSS, TanStack Query, Zustand
+- **Backend**: FastAPI, NestJS, Node.js, Express, REST, GraphQL, tRPC, Socket.io, WebRTC, Prisma
+- **Dev & Infra**: AWS, Cloudflare, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions, E2B
+- **AI/GenAI**: Vercel AI SDK, Claude Agent SDK, Claude Code, OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, LangChain, LlamaIndex
+- **Observability & Workflow Tooling**: Sentry, OpenTelemetry, Inngest, Upstash Redis
+- **Data & Storage**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase/Firestore, Redis, Upstash Redis, DynamoDB, Pinecone, Sanity
+- **Other**: CI/CD, System Design, Cost Optimization, SaaS Architecture
 
 ### Languages and Tools:
 
@@ -42,16 +46,11 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://miro.medium.com/max/1400/1*CStP06JrfLSevaOkPZavvg.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="25" width="27" src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="terminal"></code>
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+<code><img height="25" width="27" src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter"></code>
 
 ### Badges
 
@@ -61,7 +60,7 @@ I thrive on continuous learning and embracing diverse technologies and domains. 
 
 <div align="center">
 
-#### Join me in embracing the exciting synergy of technology, innovation, and problem-solving. Let's connect and collaborate to create a more remarkable future.
+#### Thanks for stopping by. I’m always interested in building thoughtful AI products and ambitious software with real-world impact.
 
 ### Show some ❤️ by starring some of the repositories!
 
