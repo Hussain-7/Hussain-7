@@ -1,5 +1,4 @@
-## Hey 👋, I'm [Hussain Rizvi](https://github.com/Hussain-7/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smhussainrizvi/)
-
+## Hey 👋, I'm [Hussain Rizvi](https://github.com/Hussain-7/)
 ### Glad to see you here! &nbsp;
 - I'm an AI Product Engineer 💡 with 5+ years of software development experience building AI-native products, agentic harnesses, and full-stack systems end to end. I’m stack-agnostic by mindset and focus on choosing the right tools to ship fast, useful, production-ready experiences ✨..
 
