@@ -31,7 +31,7 @@ Although I’m stack-agnostic, these are usually my go-to choices depending on t
 - **Languages**: Python, Typescript, C++, Go, Rust
 - **Frontend**: React, Next.js, React Native, Tailwind CSS, TanStack Query, Zustand
 - **Backend**: FastAPI, NestJS, Node.js, Express, REST, GraphQL, tRPC, Socket.io, WebRTC, Prisma
-- **Dev & Infra**: AWS, Cloudflare, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions, E2B
+- **Dev & Infra**: AWS, GCP, Cloudflare, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions, E2B
 - **AI/GenAI**: Vercel AI SDK, Claude Agent SDK, Claude Code, OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, LangChain, LlamaIndex
 - **Observability & Workflow Tooling**: Sentry, OpenTelemetry, Inngest, Upstash Redis
 - **Data & Storage**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase/Firestore, Redis, Upstash Redis, DynamoDB, Pinecone, Sanity
